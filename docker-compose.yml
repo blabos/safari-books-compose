@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  get-book:
+    image: safari-books
+    volumes:
+      - "./cookies.json:/safaribooks/cookies.json"
+      - "./Books:/safaribooks/Books"
+
+# docker-compose run get-book 9781492094944
