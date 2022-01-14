@@ -1,6 +1,6 @@
 # SafariBooks Compose
 
-This is a tiny `docker-compose` skin around the actual useful project
+This is a tiny `docker-compose` wrapper around the actual useful project
 [SafariBooks](https://github.com/lorenzodifuccia/safaribooks). Please take a
 look on it.
 
